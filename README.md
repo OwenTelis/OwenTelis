@@ -71,8 +71,8 @@ Built in partnership with RefMED Medical Consulting at Florida Polytechnic Unive
 ### Florida Polytechnic University — Lakeland, FL
 
 **M.S. in Engineering Management**
-*August 2025 – May 2026 (Expected)*
-GPA: 3.92 / 4.0
+*August 2025 – May 2026
+GPA: 3.8 / 4.0
 
 **B.S. in Business Analytics, Logistics and Supply Chain Management**
 *August 2020 – May 2024*
