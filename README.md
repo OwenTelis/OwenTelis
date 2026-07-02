@@ -3,13 +3,13 @@
 
 I'm a data professional with experience spanning business intelligence, database development, financial analysis, and sourcing operations. I'm currently a Business Data Analyst at General Dynamics OTS, where I build executive-facing dashboards and translate complex datasets into clear, actionable insights for senior leadership.
 
-I'm completing my **M.S. in Engineering Management** at Florida Polytechnic University (GPA: 3.80), building on a **B.S. in Business Analytics, Logistics and Supply Chain Management** (GPA: 3.72) from the same institution.
+I obtained my **M.S. in Engineering Management** at Florida Polytechnic University (GPA: 3.80), building on a **B.S. in Business Analytics, Logistics and Supply Chain Management** (GPA: 3.72) from the same institution.
 
 ---
 
 ## Professional Experience
 
-**Business Data Analyst** — General Dynamics OTS *(March 2026 – Present)*
+**Business Data Analyst** — General Dynamics OTS *(March 2026 – July 2026)*
 Design and maintain interactive dashboards for executive leadership, identify process inefficiencies, and build scalable, automated BI reporting solutions using Power BI and Tableau.
 
 **Sourcing Analyst** — Fanatics Sports Apparel *(January 2025 – August 2025)*
